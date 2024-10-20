@@ -91,14 +91,14 @@ horizontalAlignment = Alignment.CenterHorizontally
                 .width(200.dp)
         )
         Text(
-            text = "Patrice Djate",
+            text = "Ismael Camara",
             modifier = Modifier.align(alignment = Alignment.CenterHorizontally),
             color = Color(0xFF3ddc84),
             fontSize = 25.sp,
             fontWeight = FontWeight.Bold
         )
         Text(
-            text = "Informaticien",
+            text = "Developpeur",
             fontSize = 16.sp,
             //color = Color(0xFF3ddc84),
             fontWeight = FontWeight.Bold,
@@ -120,7 +120,7 @@ horizontalAlignment = Alignment.CenterHorizontally
                 
                 )
             Text(
-                text = "+225 07 77 59 21 35",
+                text = "+225 07 89 13 05 85",
 
             )
         }
@@ -139,7 +139,7 @@ horizontalAlignment = Alignment.CenterHorizontally
 
                 )
             Text(
-                text = "Patricedjate8@gmail.com"
+                text = "Ismaelcamara22@gmail.com"
             )
         }
     }
